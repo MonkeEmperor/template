@@ -1,4 +1,5 @@
 h3 {colour: grey;
 font-size:18px;
 font:inconsolata;
-backround colour:black}
+font-colour:white;
+backround-colour:black}
