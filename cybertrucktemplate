@@ -1,5 +1,5 @@
-h3 {colour: grey;
+h1 {colour: grey;
 font-size:18px;
 font:inconsolata;
 font-colour:white;
-backround colour:black;}
+backround-colour:black;}
