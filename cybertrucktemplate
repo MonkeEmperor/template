@@ -1,2 +1,4 @@
-p {colour: grey;}
-h1 {font-size:18px]
+h3 {colour: grey;
+font-size:18px;
+font:inconsolata;
+backround colour:black}
