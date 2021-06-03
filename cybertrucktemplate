@@ -1,5 +1,11 @@
-h1 {colour: grey;
-font-size:18px;
-font:inconsolata;
-font-colour:white;
-backround-colour:black;}
+h1 {
+font-colour: white;
+font-size:14px;
+<div class="inconsolata"<News:
+<br>
+The new buttons are more organized in the menu. Directory takes you to the sitewide index, Social gives a dropdown of all the social media services, Battle is a text-based RPG, and articles is news.</p></div>
+}
+
+<p> {
+backround-colour:black;
+}
